@@ -1,6 +1,6 @@
  
 
-class _Message:
+class _Message():
  
      key=None
      time=None

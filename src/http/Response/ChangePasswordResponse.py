@@ -1,0 +1,8 @@
+
+
+
+
+class ChangePasswordResponse:
+    pass
+
+

@@ -1,0 +1,8 @@
+
+
+
+
+class MegaphoneLogResponse:
+
+    success=None
+

@@ -1,0 +1,8 @@
+
+
+
+
+class FriendshipsShowManyResponse:
+
+    friendships = []
+

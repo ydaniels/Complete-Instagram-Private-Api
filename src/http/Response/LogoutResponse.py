@@ -1,0 +1,7 @@
+
+
+
+
+class LogoutResponse:
+
+    pass
